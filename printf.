@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+    printf("2026浙大等我！\n");
+    return 0;
+}
