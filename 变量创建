@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main()
+{
+	int age = 20;
+	float weight = 100;
+	double height = 160;
+	long long charm = 999999999;
+	age = age + 1;
+	weight = weight - 1;
+	printf("%d\n", age);
+	printf("%f\n", weight);
+	printf("%lf\n", height);
+	printf("charm=%d\n", charm);
+    return 0;
+}
